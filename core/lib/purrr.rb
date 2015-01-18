@@ -1,5 +1,5 @@
 require "purrr/version"
 
 module Purrr
-  # Your code goes here...
+  require "purrr/user"
 end
