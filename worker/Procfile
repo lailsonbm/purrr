@@ -1,0 +1,1 @@
+worker: sidekiq -r ./main.rb -c 1
